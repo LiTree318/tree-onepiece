@@ -3,6 +3,9 @@
 ---
 
 
+Status: #partdone 
+Note Type: #movetype, #variant, [[flip\|flip]]
+Tags: #unintended, #storage 
 
 ### 📚 學術論文上會需要找：
 
